@@ -1,0 +1,9 @@
+# ignore large files
+*.csv
+*.parquet
+
+# ingore data folder
+/data/
+data/
+
+
