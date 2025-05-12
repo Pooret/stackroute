@@ -6,4 +6,10 @@
 /data/
 data/
 
+# venv
+/venv_stackroute/
+venv_stackroute
+
+# pycache
+__pycache__/
 
